@@ -16,54 +16,14 @@
       "important": true
     },
     {
-      "content": "this is new to me",
-      "important": false,
-      "id": 4
-    },
-    {
-      "content": "Add new Note",
-      "important": false,
-      "id": 5
-    },
-    {
-      "content": "Add new Note",
-      "important": true,
-      "id": 6
-    },
-    {
-      "content": "Add new Note",
-      "important": true,
-      "id": 7
-    },
-    {
-      "content": "Add new Note",
-      "important": false,
-      "id": 8
-    },
-    {
-      "content": "wefwef",
-      "important": false,
-      "id": 9
-    },
-    {
-      "content": "Add new Note",
-      "important": true,
-      "id": 10
-    },
-    {
-      "content": "Add new Note",
-      "important": false,
-      "id": 11
-    },
-    {
-      "content": "Add new Note",
-      "important": false,
-      "id": 12
-    },
-    {
-      "content": "Add new Note",
-      "important": false,
-      "id": 13
+      "id": 4,
+      "content": "React Full Stack Course",
+      "important": true
+    },{
+      "id": 5,
+      "content": "Add Delete Service later",
+      "important": true
     }
+  
   ]
 }
